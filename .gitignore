@@ -1,0 +1,4 @@
+.idea/
+KEYS.sh
+node_modules/
+*.js
